@@ -1,0 +1,18 @@
+[
+    {
+        "country" : "Nigeria",
+        "capital" : "Abuja",
+        "states" : [
+            { "name" : "Lagos",
+              "capital" : "Ikeja",
+              "LGA" :["Alimosho", "Festac", "Ikorodu", "Lekki", "Ojo", "Victoria Island"]
+                    },
+                    {
+                        "name" :"Ogun",
+                        "capital" : "Abeokuta",
+                        "LGA" : ["Abeokuta North", "Abeokuta South", "Ado-Odo/Ota", "Ewekoro", "Ifo", "Ijebu East", "Ijebu North", "Ijebu North East", "Ijebu Ode", "Ikenne", "Imeko Afon", "Ipokia", "Obafemi Owode", "Odeda", "Odogbolu", "Ogun Waterside", "Remo North", "Shagamu"]
+                    }
+        ]
+    }
+
+]
